@@ -1,0 +1,15 @@
+{
+  "welcome": "Bienvenido a Transsync",
+  "dashboard": "Panel de control",
+  "admin_dashboard": "Panel de administrador",
+  "drivers": "Conductores",
+  "routes": "Rutas",
+  "vehicles": "Vehículos",
+  "schedules": "Horarios",
+  "reports": "Informes",
+  "emergency": "Emergencias",
+  "login": "Iniciar sesión",
+  "register": "Registrarse",
+  "logout": "Cerrar sesión",
+  "home": "Inicio"
+}

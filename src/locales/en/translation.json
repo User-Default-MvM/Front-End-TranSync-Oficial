@@ -1,0 +1,15 @@
+{
+  "welcome": "Welcome to Transsync",
+  "dashboard": "Dashboard",
+  "admin_dashboard": "Admin Dashboard",
+  "drivers": "Drivers",
+  "routes": "Routes",
+  "vehicles": "Vehicles",
+  "schedules": "Schedules",
+  "reports": "Reports",
+  "emergency": "Emergency",
+  "login": "Login",
+  "register": "Register",
+  "logout": "Log out",
+  "home": "Home"
+}
