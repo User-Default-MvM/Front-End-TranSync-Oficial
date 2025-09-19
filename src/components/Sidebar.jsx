@@ -366,7 +366,7 @@ const Sidebar = ({ isOpen, toggleSidebar, onOverlayClick, isMobile: isMobileProp
         {/* Footer del sidebar */}
         <div className={`p-4 mt-auto backdrop-blur-sm space-y-3 ${dark ? "border-t border-gray-700" : "border-t border-white/20"}`}>
           {/* Botón modo oscuro */}
-          <button
+          {/* <button
             onClick={() => setDark(!dark)}
             className={`
               flex items-center w-full rounded-xl cursor-pointer
@@ -388,7 +388,7 @@ const Sidebar = ({ isOpen, toggleSidebar, onOverlayClick, isMobile: isMobileProp
                 {dark ? "Modo Claro" : "Modo Oscuro"}
               </span>
             )}
-          </button>
+          </button> */}
 
           {/* Botón logout */}
           <button 
